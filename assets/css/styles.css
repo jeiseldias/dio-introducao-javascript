@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;400;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Roboto';
+}
+
+h1 {
+    font-size: 48px;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+    color: white;
+    border-bottom: 5px solid white;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+    margin-bottom: 24px;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: gray;
+}
+
+#counter {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#counter button {
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    background-color:azure;
+    font-size: 38px;
+    font-weight: 700;
+    color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#counter span {
+    margin: 16px;
+    font-size: 48px;
+    color: white;
+    font-weight: 700;
+}
