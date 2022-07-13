@@ -7,9 +7,9 @@ Repositório para acompanhamento do conteúdo do curso de **Introdução so Java
 O bootcamp Impulso JavaScript Evolution é um programa de recrutamento de devs de todo o Brasil e diferentes níveis técnicos para trabalhar na Impulso de forma 100% remota. O Impulso JavaScript Evolution é para qualquer dev que tem como foco evoluir em uma jornada Fullstack e alcançar outro patamar na carreira. São dezenas de oportunidades de contratação para profissionais que querem elevar seu nível técnico.
 
 ## Desafios da Instrutora
-[x] Implementar os evento usando o método addEventListener.
-[x] Criar condicionais que desabilitem o botão de incrementar e decrementar quando count chegar a um determinado valor (ex.: -10 <= count <= 10)
-[x] Mude a cor do texto em CURRENT_NUMBER para vermelho quando o número for negativo
+- [x] Implementar os evento usando o método addEventListener.
+- [x] Criar condicionais que desabilitem o botão de incrementar e decrementar quando count chegar a um determinado valor (ex.: -10 <= count <= 10)
+- [x] Mude a cor do texto em CURRENT_NUMBER para vermelho quando o número for negativo
 
 ### Links
 
